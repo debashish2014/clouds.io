@@ -4,7 +4,7 @@ Comparison of cloud services
 
 ## About
 
-There are many cloud services out there, but couldn't find a website which draws the comparison between different services available for a specific task. This repository is an effort to do a simple comparison between them.
+There are many cloud services out there mainly Azure & AWS, but couldn't find a website which draws a comparison between different services available for a specific task. This repository is an effort to do a simple comparison between them.
 
 ## Comparison
 
